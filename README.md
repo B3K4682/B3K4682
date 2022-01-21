@@ -40,7 +40,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.outplay.ge"><img src="https://img.shields.io/badge/-outplay.ge-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:saintereso056@gmail.com"><img src="https://img.shields.io/badge/-saintereso056@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://facebook.com/1B3K4"><img src="https://img.shields.io/badge/-@Beqa%20Jiqia-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.outplay.ge" target="_blank"><img src="https://img.shields.io/badge/-outplay.ge-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:saintereso056@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-saintereso056@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://facebook.com/1B3K4" target="_blank"><img src="https://img.shields.io/badge/-@Beqa%20Jiqia-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
